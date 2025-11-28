@@ -191,3 +191,9 @@ __pycache__/
 ## Google Books citation files
 *.gbaux
 *.gblinks.tex
+
+## Build error recovery files
+*-SAVE-ERROR
+
+## Biber tool output
+*_bibertool.bib
